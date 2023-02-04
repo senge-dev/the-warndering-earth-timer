@@ -52,7 +52,7 @@ h1{
 }
 /* 新建一条竖线，并设置颜色和样式 */
 .line{
-    width: 2px;
+    width: 4px;
     height: 130px;
     background-color: #D64249;
     margin: -130 0 0 293px;
